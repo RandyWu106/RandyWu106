@@ -1,16 +1,17 @@
-## Hi there 👋
+# PS5X Guide
 
-<!--
-**RandyWu106/RandyWu106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I maintain a community resource for **PS5X** — the open-source KytyPS5 PlayStation 5 emulator ported to run on Xbox Series X|S through Developer Mode.
 
-Here are some ideas to get you started:
+## What's on the site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📺 [Full install guide](https://www.ps5xguide.com/install-developer-mode) — Developer Mode setup, Device Portal deployment, step by step
+- ✅ [Compatibility list](https://www.ps5xguide.com/compatibility-list) — what actually boots today (Quake II, GEX Trilogy, Hellboy, Marvel Cosmic Invasion…)
+- 🛠 [Troubleshooting](https://www.ps5xguide.com/ps5x-troubleshooting) — E208, black screen, "Package failed", Device Portal issues
+- 🛡 [Is PS5X safe?](https://www.ps5xguide.com/is-ps5x-safe) — legality, ban risk, and which fake download sites to avoid
+
+## Project links (official)
+
+- Upstream: https://github.com/KytyPS5/KytyPS5
+- Official site: https://kytyps5.github.io
+
+Unofficial community resource. Not affiliated with Sony or Microsoft.
